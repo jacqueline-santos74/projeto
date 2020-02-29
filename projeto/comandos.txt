@@ -1,0 +1,12 @@
+touch - criar arquivos
+git add - adicionar arquivos
+git status - mostrar os arquivos adicionados
+git commit - fechar area de arquivos
+git log - mostrar detalhes das versoes/arquivos criados
+
+--após alterar um arquivo--
+git add.
+--fechar conteiner--
+git commit -m
+--subir p/ github--
+git push -u origin master
